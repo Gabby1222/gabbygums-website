@@ -1,5 +1,5 @@
 <style>
-  body {background-color: pink;
+  body {background-image: url("clouds.png");
 </style>
 # *gabbygums-website*
 #### Gabby's first website 
